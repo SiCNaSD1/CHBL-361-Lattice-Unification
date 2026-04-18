@@ -1,0 +1,3 @@
+outputs/
+├── mathematical_equations_bic.png  # From notebook
+└── bic_sensitivity_analysis.csv
