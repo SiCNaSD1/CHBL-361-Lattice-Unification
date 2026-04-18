@@ -3,4 +3,9 @@ Priority: CISA Jan 19 4:22AM | USPTO 63/999,468
 Reproducibility: Binder-ready Jupyter notebook
 
 CHBL unifies 208 observables (ΔBIC=-1056.83).
+Three independent validations converge:
+• Bosman: mathematics as divine language
+• Brent UCBF: FCC voxel → constants  
+• CHBL: ΔBIC=-1056.73 (208 observables)
+Code: https://github.com/SiCNaSD1/CHBL-361-Lattice-Unification
 Reproducible notebook + federal priority chain.
