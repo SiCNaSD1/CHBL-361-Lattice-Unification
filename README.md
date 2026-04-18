@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sicnasd1/CHBL-361-Lattice-Unification/main?filepath=CHBL_BIC_Analysis.ipynb)
+
 # CHBL: 361-Modulus Lattice Framework [file:61]
 
 **Unifies 208 observables** (Millennium Problems + bottlenecks)  
