@@ -1,6 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sicnasd1/CHBL-361-Lattice-Unification/main?filepath=CHBL_BIC_Analysis.ipynb)
 
 # CHBL: 361-Modulus Lattice Framework [file:61]
+Douglas Benjamin Stark
+Chrono HeshBaniah Labs LLC
+https://www.chronoheshbaniahlabs.net
 
 **Unifies 208 observables** (Millennium Problems + bottlenecks)  
 **ΔBIC = -1056.83** (k₁=10 vs k₀=208) — Overwhelmingly decisive [file:61].
